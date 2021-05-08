@@ -38,3 +38,5 @@ During training process, the program will create a new subfolder under the direc
 I have trained the DCGAN model for 500 epochs and CGAN model for 200 epochs.
 The trained weights can be found here: 
 https://drive.google.com/drive/folders/1OZrccNu7_TAwRBTVPT9MOJJbgch1xaN7?usp=sharing
+
+The CGAN may need to be trained for 500 epochs but i don't have enough time. Please train it again!
