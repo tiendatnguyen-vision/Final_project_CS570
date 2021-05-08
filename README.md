@@ -34,3 +34,7 @@ Therere are some parameters to configure:
 During training process, the program will create a new subfolder under the directory "save_CGAN", and then model weight would be saved there. 
 
 
+# Notice 
+I have trained the DCGAN model for 500 epochs and CGAN model for 200 epochs.
+The trained weights can be found here: 
+https://drive.google.com/drive/folders/1OZrccNu7_TAwRBTVPT9MOJJbgch1xaN7?usp=sharing
